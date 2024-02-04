@@ -11,6 +11,7 @@ A way to group my links in one place.
 ##### Technologies
 - HTML5
 - CSS3
+- Javascript
 
 ##### Utility
 - IcoMoon
