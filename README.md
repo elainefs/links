@@ -4,7 +4,7 @@
 Similar to Linktree, but created by me.
 A way to group my links in one place.
 
-<a href="https://elainefs.github.io" target="_blank">See Website</a>
+<a href="https://elainefs.github.io/links" target="_blank">See</a>
 </h2>
 
 ## ⚒️ Tools
